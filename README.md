@@ -1,3 +1,7 @@
+### Blue Wrapper (originally Bluesky Social Wrapper)
+
+This is the archive of the first version of the Blue Wrapper. It is no longer hosted online, but can still be run locally.
+
 ## Disclaimer:
 ### This client is not owned or maintained by Bluesky. This is a personal project that allows others to view the posts on the platform through a modern web interface.
 

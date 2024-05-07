@@ -2,12 +2,7 @@
 
 ## Supported Versions
 
-Both `stable` and `staging` builds are hosted online and therefore eligible for reporting.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| stable   | :white_check_mark: |
-| staging   | :white_check_mark: |
+This version is now archived and no longer supported. As such, it may not be safe to use. Vulnerability reporting remains open for [newer versions](https://github.com/Amazingca/BSKY-Wrapper) of the Blue Wrapper.
 
 ## Reporting a Vulnerability
 
